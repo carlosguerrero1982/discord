@@ -18,11 +18,11 @@ function Sidebar() {
 
     return (
         <div className="sidebar">
-            <h1>Sidebar</h1>
+            
 
             <div className="sidebar_top">
 
-                <h3>CLebe</h3>
+                <h3>Cisco System</h3>
 
                  <ExpandMoreIcon />
 
