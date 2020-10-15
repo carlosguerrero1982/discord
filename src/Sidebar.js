@@ -22,7 +22,7 @@ function Sidebar() {
 
             <div className="sidebar_top">
 
-                <h3>Cisco System</h3>
+                <h3>Cisco System </h3>
 
                  <ExpandMoreIcon />
 
